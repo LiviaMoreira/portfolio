@@ -1,10 +1,5 @@
 # Data Analytics Professional | People Analytics Specialist
 
-## 🌟 About Me
-
-Meet Livia, a seasoned Data Analyst with over 10 years of experience across diverse industries, specializing in People Analytics. 
-With a Bachelor's in Business and a Master's in Data Management and Analytics, Livia leverages her strong analytical skills to uncover valuable insights from complex data sets.
-
 ## 📚 Projects & Contributions
 
 _Coming soon!_ – Some projects and detailed case studies will soon be shared to showcase the practical applications of analytics in diverse business contexts.
